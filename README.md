@@ -16,7 +16,7 @@ A Model Control Protocol (MCP) server that provides weather-related tools includ
 ## Screenshot
 
 <!-- Add your Claude response image here -->
-![Claude Response](path/to/your/image.png)
+![Claude Response](img/pic.png)
 *Replace the above path with your actual image path*
 
 ## Getting Started
