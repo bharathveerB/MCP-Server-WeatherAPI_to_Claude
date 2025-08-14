@@ -17,7 +17,6 @@ A Model Control Protocol (MCP) server that provides weather-related tools includ
 
 <!-- Add your Claude response image here -->
 ![Claude Response](img/pic.png)
-*Replace the above path with your actual image path*
 
 ## Getting Started
 
@@ -114,6 +113,4 @@ Formatted weather forecast information
 - `httpx`: Async HTTP client for API requests
 - `pydantic`: For data validation and settings management
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
